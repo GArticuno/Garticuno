@@ -2,7 +2,7 @@
 ---
 
 - 🔭 I’m currently developing developing any software that comes to my mind
-- 🌱 I’m currently learning Angular 9 and Next.js
+- 🌱 I’m currently learning more React and Next.js
 - ⚡ Fun fact: The name Garticuno is inspired by the galarian articuno
 
 #### Connect with me:
@@ -17,14 +17,4 @@ My DeviantArt to see my illustrations --> [🎨](https://www.deviantart.com/g-ar
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Garticuno&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garticuno&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**GArticuno/Garticuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
