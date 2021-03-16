@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-- 🔭 I’m currently developing developing any software that comes to my mind
+- 🔭 I’m currently developing any software that comes to my mind
 - 🌱 I’m currently learning more React and Next.js
 - ⚡ Fun fact: The name Garticuno is inspired by the galarian articuno
 
