@@ -10,8 +10,6 @@
 
 My curriculum website --> [🎓](https://garticuno.github.io/EcoTrip/)
 
-A little website that i made --> [😸](https://garticuno.github.io/EcoTrip/Estilos/Estilos.html)
-
 My DeviantArt to see my illustrations --> [🎨](https://www.deviantart.com/g-articuno)
 
 ---
