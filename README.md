@@ -6,8 +6,9 @@
 - ⚡ Fun fact: The name Garticuno is inspired by the galarian articuno
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/mateus-rom%C3%A3o-557266165/)
-
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9e59db?style=for-the-badge)](https://garticuno.github.io/EcoTrip/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rom%C3%A3o-557266165/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Garticuno1)
 
 ### Languages:
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
