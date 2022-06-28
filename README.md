@@ -2,7 +2,7 @@
 ---
 
 - 🔭 I’m currently developing any software that comes to my mind
-- 🌱 I’m currently learning more React and Next.js
+- 🌱 I’m currently working with React, React Native and Angular.
 - ⚡ Fun fact: The name Garticuno is inspired by the galarian articuno
 
 ### Connect with me:
