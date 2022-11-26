@@ -1,9 +1,9 @@
 ### Hi there 👋
 ---
 
-- 🔭 I’m currently developing any software that comes to my mind
-- 🌱 I’m currently working with React, React Native and Angular.
-- ⚡ Fun fact: The name Garticuno is inspired by the galarian articuno
+- 🔭 I’m currently developing any software that comes to my mind.
+- 🌱 I’m currently working with React, React Native with unit tests.
+- ⚡ Fun fact: The name Garticuno is inspired by the galarian articuno.
 
 ### Connect with me:
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-9e59db?style=for-the-badge)](https://garticuno.github.io/EcoTrip/)
