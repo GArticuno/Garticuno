@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-- 🔭 I’m currently developing any software that comes to my mind.
+- 🔭 I’m currently looking for a job like Frontend Developer.
 - 🌱 I’m currently working with React, React Native with unit tests.
 - ⚡ Fun fact: The name Garticuno is inspired by the galarian articuno.
 
