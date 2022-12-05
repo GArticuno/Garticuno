@@ -7,7 +7,7 @@
 
 ### Connect with me:
 [![Portfolio Badge](https://img.shields.io/badge/Curriculo-9e59db?style=for-the-badge)](https://garticuno.github.io/EcoTrip/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rom%C3%A3o-557266165/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mateus-rom%C3%A3o-557266165/](https://www.linkedin.com/in/mateus-rom%C3%A3o-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-557266165/))
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Garticuno1)
 
 ### Languages:
