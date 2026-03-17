@@ -1,9 +1,3 @@
-### Hi there 👋
----
-
-- 🔭 I’m currently looking for a job like Frontend Developer.
-- 🌱 I’m currently working with React, React Native with unit tests.
-- ⚡ Fun fact: The name Garticuno is inspired by the galarian articuno.
 
 ### Connect with me:
 [![Portfolio Badge](https://img.shields.io/badge/Curriculo-9e59db?style=for-the-badge)](https://garticuno.github.io/EcoTrip/)
